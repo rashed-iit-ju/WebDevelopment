@@ -1,0 +1,26 @@
+body{
+    width: 75%;
+    background-color: azure;
+    margin: auto;
+}
+h1{
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#club_logo{
+    float: left;
+}
+/*#heading{
+    float: right;
+}*/
+
+#social_media{
+    width: 30px;
+    height: 30px;
+    border-color: black;
+    border-radius: 20px;
+    float: right;
+    margin-bottom: 50px;
+}
